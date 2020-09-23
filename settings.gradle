@@ -1,6 +1,6 @@
 include ':libwebrtc'
 include ':owt_p2p'
-include ':owt_conference'
+//include ':owt_conference'
 include ':owt_base'
 include ':app'
 rootProject.name = "p2papp1"

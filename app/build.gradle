@@ -38,7 +38,7 @@ dependencies {
         exclude group: 'org.json', module: 'json'
     }
 
-    implementation project(path: ':owt_conference')
+    //implementation project(path: ':owt_conference')
     implementation project(path: ':owt_base')
     implementation project(path: ':owt_p2p')
     implementation project(path: ':libwebrtc')

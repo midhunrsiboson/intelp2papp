@@ -13,7 +13,6 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libwebrtc" />
             <option value="$PROJECT_DIR$/owt_base" />
-            <option value="$PROJECT_DIR$/owt_conference" />
             <option value="$PROJECT_DIR$/owt_p2p" />
           </set>
         </option>
